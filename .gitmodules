@@ -12,3 +12,8 @@
 	path = lq-todoo/MoreP0
 	url = git@github.com:lq-todoo/MoreP.git
 	branch = main
+
+[submodule "lq-todoo/MoreP00"]
+	path = lq-todoo/MoreP00
+	url = git@github.com:lq-todoo/MoreP.git
+	branch = main
