@@ -1,0 +1,4 @@
+[submodule "lq-todoo/MoreP"]
+	path = lq-todoo/MoreP
+	url = git@github.com:lq-todoo/MoreP.git
+	branch = main
