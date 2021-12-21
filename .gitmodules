@@ -2,3 +2,8 @@
 	path = MoathAlrefai2/lp-staging-test
 	url = git@github.com:MoathAlrefai2/lp-staging-test.git
 	branch = main
+
+[submodule "Adriegrip/networkedenergy"]
+	path = Adriegrip/networkedenergy
+	url = git@github.com:Adriegrip/networkedenergy.git
+	branch = main
