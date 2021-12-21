@@ -1,0 +1,4 @@
+[submodule "MoathAlrefai2/lp-staging-test"]
+	path = MoathAlrefai2/lp-staging-test
+	url = git@github.com:MoathAlrefai2/lp-staging-test.git
+	branch = main
