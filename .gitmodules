@@ -2,3 +2,8 @@
 	path = deepshikhaksolves/erp_pm
 	url = git@github.com:deepshikhaksolves/erp_pm.git
 	branch = main
+
+[submodule "lq-todoo/MoreP"]
+	path = lq-todoo/MoreP
+	url = git@github.com:lq-todoo/MoreP.git
+	branch = main
