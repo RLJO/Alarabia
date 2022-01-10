@@ -102,3 +102,8 @@
 	path = wms
 	url = https://github.com/OCA/wms.git
 	branch = 14.0
+
+[submodule "izzihector/Vitility_14_v2"]
+	path = izzihector/Vitility_14_v2
+	url = git@github.com:izzihector/Vitility_14_v2.git
+	branch = Testing_6
